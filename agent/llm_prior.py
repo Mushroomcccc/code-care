@@ -249,7 +249,7 @@ Role: Professional quantitative market analyst.
 Task: Summarize strictly causal numerical evidence for later regime inference.
 
 Trading day: {date_label}
-Market-level features:
+Market features:
 {market_features}
 
 Output requirements:

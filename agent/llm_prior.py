@@ -269,7 +269,7 @@ Numerical evidence summary:
 
 Calibration rules:
 - Neutral is the default when evidence is mixed, sparse, local, low-conviction, or conflicting.
-- Assign high Bull only when numerical trend/risk evidence is jointly constructive, or when news evidence is broad and market-wide.
+- Assign high Bull only when numerical trend/risk evidence is jointly constructive, or when news evidence is broad and market-wide postive.
 - Assign high Bear only when numerical trend/risk evidence is clearly stressed, or when news evidence is broad and market-wide negative.
 - If news evidence and numerical evidence point in opposite directions, increase Neutral and avoid an overconfident Bull/Bear distribution unless one side is very strong.
 
